@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naqash Malik</h1>
 <h3 align="center">Full Stack Developer | SaaS, React, Next.js, Node.js & AI Integration</h3>
+> Note: This is my new active GitHub profile. My previous portfolio access was lost due to a 2FA recovery key issue, so I am rebuilding and updating my public work here.
 
 - 🔭 I’m currently working on [SaaS platforms, AI integrations, and scalable full-stack web applications](https://github.com/naqashmalikdev)
 
