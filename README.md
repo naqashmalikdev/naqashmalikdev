@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, Supabase, PostgreSQL, AWS, OpenAI API, ChatGPT API, SaaS development, and full-stack architecture**
 
-- 📫 How to reach me **naqashmalikdev@gmail.com**
-
 - ⚡ Fun fact **I turn business ideas into production-ready digital products.**
 
 <h3 align="left">Connect with me:</h3>
