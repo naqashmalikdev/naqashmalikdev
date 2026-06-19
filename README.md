@@ -1,193 +1,23 @@
-```md
-<h1 align="center">Hi, I'm Naqash Malik 👋</h1>
+<h1 align="center">Hi 👋, I'm Naqash Malik</h1>
+<h3 align="center">Full Stack Developer | SaaS, React, Next.js, Node.js & AI Integration</h3>
 
-<h3 align="center">
-Full Stack Developer | SaaS Platforms | React | Next.js | Node.js | AI Integration
-</h3>
+- 🔭 I’m currently working on [SaaS platforms, AI integrations, and scalable full-stack web applications](https://github.com/naqashmalikdev)
 
-<p align="center">
-  I build fast, scalable, and production-ready web applications for startups, founders, and growing businesses.
+- 🌱 I’m currently learning **Advanced AI integrations, scalable cloud architecture, and production-grade SaaS systems**
+
+- 👯 I’m looking to collaborate on [SaaS products, AI-powered applications, automation systems, and modern web platforms](https://github.com/naqashmalikdev)
+
+- 🤝 I’m looking for help with [Open-source SaaS tools and AI product ideas](https://github.com/naqashmalikdev)
+
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, Supabase, PostgreSQL, AWS, OpenAI API, ChatGPT API, SaaS development, and full-stack architecture**
+
+- 📫 How to reach me **naqashmalikdev@gmail.com**
+
+- ⚡ Fun fact **I turn business ideas into production-ready digital products.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SaaS%20Platforms-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Integration-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/8%2B%20Years%20Experience-059669?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a **Full Stack Developer** with 8+ years of experience building modern web applications, SaaS platforms, automation systems, and AI-powered products.
-
-I help startups, founders, and businesses turn ideas into reliable digital products — from clean frontend interfaces to secure backend systems, scalable APIs, dashboards, integrations, and production-ready deployments.
-
-My focus is simple:
-
-- Build products that are fast, clean, and easy to use
-- Write scalable backend systems that do not break under pressure
-- Integrate AI where it actually creates business value
-- Deliver reliable work with clear communication
-
-> This is my new active GitHub profile. My previous GitHub account access was lost due to a 2FA key issue, so I am rebuilding my public portfolio here.
-
----
-
-## 🧠 What I Work On
-
-### SaaS Platforms
-
-I build complete SaaS products with authentication, subscriptions, dashboards, admin panels, APIs, databases, and deployment pipelines.
-
-### AI-Powered Applications
-
-I integrate AI features using OpenAI APIs, ChatGPT API, automation workflows, intelligent assistants, content tools, and AI-driven business logic.
-
-### Full Stack Web Applications
-
-I develop frontend and backend systems using React, Next.js, Node.js, Express, PostgreSQL, Supabase, and cloud services.
-
-### Mobile & Cross-Platform Apps
-
-I also work on mobile app development using React Native for iOS and Android applications.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Development-FF6F00?style=flat-square" />
-</p>
-
-### Database & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
-</p>
-
-### AI & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT%20API-00A67E?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Integration-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-2563EB?style=flat-square" />
-</p>
-
----
-
-## 💼 Featured Work
-
-### 🩺 Secure Telemedicine Platform
-
-A full-stack healthcare platform built with React, Next.js, and Node.js, focused on secure patient workflows, modern UI, and scalable backend architecture.
-
-**Tech:** React, Next.js, Node.js, API Development, SaaS Architecture
-
----
-
-### 🤖 AI Powered Content Strategy Platform
-
-An AI-driven platform for content planning, strategy generation, and workflow automation using modern full-stack technologies.
-
-**Tech:** React, Next.js, Node.js, OpenAI API, SaaS
-
----
-
-### 📊 SaaS Web Application with AI Integration
-
-A scalable SaaS application built using Node.js, React, Next.js, AWS, and OpenAI APIs.
-
-**Tech:** Node.js, React, Next.js, AWS, OpenAI API
-
----
-
-### ⚡ Full Stack Web Application with Supabase
-
-A modern full-stack application using React, Next.js, Node.js, and Supabase for backend and database workflows.
-
-**Tech:** React, Next.js, Node.js, Supabase, TypeScript
-
----
-
-## ⭐ Client Feedback
-
-> “Working with Naqash was a great experience. He handled our SaaS web application professionally using Node.js, React, Next.js, AWS and OpenAI APIs.”
-
-> “Naqash is a trustworthy and highly skilled full stack developer. He delivers what he commits to and communicates clearly throughout the project.”
-
----
-
-## 📌 Core Skills
-
-- Full Stack Development
-- SaaS Product Development
-- Web Application Development
-- Backend Development
-- Frontend Development
-- API Development
-- AI Platform Development
-- OpenAI API Integration
-- ChatGPT API Integration
-- React & Next.js Development
-- Node.js & Express.js
-- Supabase & PostgreSQL
-- AWS & AWS Lambda
-- React Native Mobile Apps
-- Ecommerce Website Development
-- Automation Systems
-- Clear Communication
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naqashmalikdev&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naqashmalikdev&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqashmalikdev&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-## 🤝 Let's Work Together
-
-I'm open to working with startups, founders, agencies, and businesses that need reliable full-stack development, SaaS product development, or AI-powered web applications.
-
-If you need someone who can take ownership of the product, communicate clearly, and build with long-term scalability in mind — let's connect.
-
-<p align="center">
-  <a href="mailto:naqashmalikdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>Building scalable products, clean systems, and AI-powered applications.</strong>
-</p>
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
